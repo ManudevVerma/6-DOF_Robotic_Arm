@@ -1,0 +1,1 @@
+This project is made by me, which involves using basic functions of arduino like servo control using flex sensors. In turn servos control fingers of hand controlled by Arduino UNO, powered by 4 micro servo motors.
